@@ -15,3 +15,4 @@ for i in a:
         c_list.append(i)
 
 print(c_list)
+
